@@ -81,3 +81,15 @@ body {
 .btn:disabled {
     cursor: not-allowed;
 }
+
+@media (max-width: 400px) {
+   .progress-container {
+       width: 350px;
+   }
+}
+
+@media (max-width: 420px) {
+    .progress-container {
+        width: 350px;
+    }
+}
